@@ -12,7 +12,6 @@ A simple Bash script to monitor basic server performance on Linux.
 
 1. Clone the repository:
 
-
 git clone https://github.com/your-username/server-stats.git
 cd server-stats
 
