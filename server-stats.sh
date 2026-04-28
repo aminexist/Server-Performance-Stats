@@ -14,7 +14,7 @@ disk_percent=$(df -h / | awk 'NR==2 {print $5}')
 echo "Disk Usage: $disk_used/$disk_total ($disk_percent)"
 
 echo "Top 5 Processes by CPU:"
-ps aux --sort=-%cpu | head -n 6
+ps aux --sort=-%cpu | head -n 7
 
 echo "Top 5 Processes by Memory:"
 ps aux --sort=-%mem | head -n 6
