@@ -1,6 +1,5 @@
 # Server-Performance-Stats
 A simple Bash script to monitor basic server performance on Linux.
-
 ## Features
 
 - Total CPU usage
